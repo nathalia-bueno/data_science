@@ -7,7 +7,7 @@ Data Science projects created in order to practice my skills
 </p>
 
 # Nathalia Bueno
-<sub>*Data Scientist in training*</sub>
+*Data Scientist in training*
 
 **Background in:** Python, Exploratory Data Analysis, Statistics, Storytelling with Data
 
